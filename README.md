@@ -15,4 +15,4 @@ exit 0
 
 Now plug your SD-Card in & start the Raspberry it will generate `mac.txt` in the directory where your `GrabMAC.sh` is located.
 
-HAve fun and ty for using it lmao
+Have fun and ty for using it *LMAO*
